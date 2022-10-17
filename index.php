@@ -1,7 +1,7 @@
 
 <?php
     $db_connection = pg_connect("host=database port=5432 dbname=postgres user=josequezada password=2171675");
-    $SQLQuery = 'SELECT * FROM "Estudiantes"';
+    $SQLQuery = 'SELECT * FROM Estudiantes';
     $RecordSet = pg_query($db_connection, $SQLQuery);
     
 ?>
