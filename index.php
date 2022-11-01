@@ -6,7 +6,7 @@
     
 ?>
 <table class="table table-bordered" border="1" style="margin-left:auto;margin-right:auto;">
-        <th>Nombre</th>
+        <th>ivan</th>
         <th>Apellido Partern</th>
         <th>Apellido Materno</th>
         <th>Promedio</th>
